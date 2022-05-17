@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+seaborn = "*"
+pandas-profiling = "*"
+ipywidgets = "*"
+sklearn = "*"
+shap = "*"
+catboost = "*"
+kafka-python = "*"
+libcst = "*"
+python-dotenv = "*"
+elasticsearch = "*"
+aiohttp = "==3.7.2"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.9"
