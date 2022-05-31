@@ -9,6 +9,7 @@ DDoS attacks is one of the security challenges that threat the availability of a
 - Univariate selection, 
 - Feature importance, 
 - correlation matrix with heatmaps,
+- Recursive feature Elimination cross validation,
 - SHAP for feature selection.
 
 Comparing all of these techniques will give an intuition of how feature selection is important, and the most important features that can be used to help in defending against the DDoS attack
